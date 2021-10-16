@@ -1,0 +1,52 @@
+ACC 2101 
+Principles of Accounting
+3 credits
+ACC 2203 
+Principles of Managerial Accounting for Non-accounting Majors
+3 credits
+ACC 3000 
+Financial Accounting I
+4 credits
+ACC 3100 
+Financial Accounting II
+4 credits
+ACC 3200 
+Cost Accounting
+4 credits
+ACC 3202 
+Accounting Information Systems
+3 credits
+ACC 4091 
+Special Topics in Accountancy
+1 credits
+ACC 4092 
+Special Topics in Accountancy
+2 credits
+ACC 4093 
+Special Topics in Accountancy
+3 credits
+ACC 4094 
+Special Topics in Accountancy
+1.5 credits
+ACC 4100 
+Financial Accounting III
+4 credits
+ACC 4300 
+Federal Income Taxation
+4 credits
+ACC 4306 
+Financial Statement Analysis and Valuation I
+4 credits
+ACC 5000 
+Independent Study
+1 credit
+ACC 5100 
+Accounting Internship
+1 credit
+ACC 5200 
+Accounting Internship
+3 credits
+ACC 5400 
+Principles of Auditing
+4 credits
+
